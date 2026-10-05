@@ -1,0 +1,7 @@
+{
+  "EPSG": 32649,
+  "NoDataValue": -3.4028230607370965E+38,
+  "CellSize_m": 0.5,
+  "EvaluationCells": 1.3110629E+7,
+  "Dmax_m": 40.90594482421875
+}

@@ -1,0 +1,21 @@
+Check,AbsoluteDifference,Tolerance,Pass
+A BCS time closure,2.70006239588838e-13,1e-09,1
+A BCS fitted curve,0,1e-08,1
+A PCZ time closure,9.9475983006414e-14,1e-09,1
+A PCZ fitted curve,0,1e-08,1
+1 decision N,0,1e-07,1
+1 decision PathCode,0,1e-07,1
+1 decision D_m,0,1e-07,1
+1 decision PredictedRMSE_m,0,1e-07,1
+1 decision PredictedTime_h,0,1e-07,1
+B BCS time closure,1.4210854715202e-13,1e-09,1
+B BCS fitted curve,0,1e-08,1
+B PCZ time closure,1.98951966012828e-13,1e-09,1
+B PCZ fitted curve,0,1e-08,1
+2 decision N,0,1e-07,1
+2 decision PathCode,0,1e-07,1
+2 decision D_m,0,1e-07,1
+2 decision PredictedRMSE_m,0,1e-07,1
+2 decision PredictedTime_h,0,1e-07,1
+RMSE-time crossings,0,1e-07,1
+0–500 m/rad crossing sweep,0,1e-07,1

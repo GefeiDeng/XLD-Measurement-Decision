@@ -1,0 +1,6 @@
+Metric,AbsoluteDifference,Tolerance,Pass
+Coefficient_m_per_rad,0,1e-07,1
+BaselineSpeed_mps,0,1e-07,1
+BootstrapP025,0,1e-07,1
+BootstrapP975,0,1e-07,1
+ObservedExtraShare_pct,0,1e-07,1

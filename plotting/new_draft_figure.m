@@ -1,0 +1,6 @@
+function fig=new_draft_figure(size_cm,cfg)
+fig=figure('Visible','off','Color','w','Units','centimeters', ...
+ 'Position',[2 2 size_cm],'PaperUnits','centimeters','PaperSize',size_cm, ...
+ 'PaperPosition',[0 0 size_cm],'PaperPositionMode','manual');
+set(fig,'DefaultAxesFontName',cfg.FontName,'DefaultTextFontName',cfg.FontName);
+end

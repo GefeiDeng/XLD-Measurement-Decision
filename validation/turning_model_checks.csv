@@ -1,0 +1,17 @@
+Check,AbsoluteDifference,Tolerance,Pass
+A: block time closure,0,1e-08,1
+A: straight-route turning,0,1e-06,1
+A: route time closure,1.4210854715202e-14,1e-09,1
+A: coordinate translation,4.00625594920712e-08,0.0001,1
+A: mirror symmetry,0,1e-07,1
+A: route reversal,1.13686837721616e-13,1e-07,1
+A: positive turning duration,0,0,1
+A: speed scaling,0,1e-09,1
+B: block time closure,0,1e-08,1
+B: straight-route turning,0,1e-06,1
+B: route time closure,0,1e-09,1
+B: coordinate translation,5.69690428164904e-08,0.0001,1
+B: mirror symmetry,0,1e-07,1
+B: route reversal,2.27373675443232e-13,1e-07,1
+B: positive turning duration,0,0,1
+B: speed scaling,0,1e-09,1

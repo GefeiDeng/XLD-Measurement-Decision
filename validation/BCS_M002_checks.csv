@@ -1,0 +1,22 @@
+Check,AbsoluteDifference,Tolerance,Pass
+route closure,0,1e-07,1
+exact mapped control vertices,0,0,1
+all route roles measured,0,0,1
+segment lengths close,1.81898940354586e-11,1e-06,1
+finite sampled bed elevations,0,0,1
+auxiliary line count,0,0,1
+finite auxiliary elevations,0,0,1
+all evaluation cells retained,0,0,1
+native plus fill close,0,0,1
+nonnegative RMSE,0,0,1
+auxiliary 1 measured endpoint anchors,0,0.001,1
+auxiliary 2 measured endpoint anchors,0,0.001,1
+auxiliary 3 measured endpoint anchors,0,0.001,1
+auxiliary 4 measured endpoint anchors,0,0.001,1
+auxiliary 5 measured endpoint anchors,0,0.001,1
+auxiliary 6 measured endpoint anchors,0,0.001,1
+auxiliary 7 measured endpoint anchors,0,0.001,1
+auxiliary 8 measured endpoint anchors,0,0.001,1
+auxiliary 9 measured endpoint anchors,0,0.001,1
+auxiliary 10 measured endpoint anchors,0,0.001,1
+auxiliary 11 measured endpoint anchors,0,0.001,1
