@@ -1,6 +1,6 @@
 # Xiaolangdi bathymetric survey planning: data and code
 
-This package contains the data and MATLAB code needed to reproduce the numerical analyses and Figures 3–8 of the Xiaolangdi survey-planning manuscript. It includes the native-resolution cropped DEM, three mapping lines, evaluation boundary, and the seven raw GPS days used in the study. Cartographic assets for Figure 1, the schematic artwork for Figure 2, abandoned approaches, and unrelated experiments are excluded.
+This package contains the data and MATLAB code needed to reproduce the numerical analyses and Figures 3–8 of the Xiaolangdi survey-planning manuscript. It includes the native-resolution cropped DEM, three mapping lines, evaluation boundary, and the seven raw GPS days used in the study.
 
 ## Start here
 
